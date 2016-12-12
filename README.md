@@ -1,6 +1,13 @@
 # Angular2Webpack
+A front-end framwork built with Angular2 and Webpack!
 
 ### Usage: 
+Before you do anything, execute the command below:
+```
+  npm install
+```
+
+Then:
 * development mode
 ```
   npm start

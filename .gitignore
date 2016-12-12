@@ -1,4 +1,5 @@
 # node_modules
-origin_node_modules/*
 node_modules/*
+
+# production mode files
 dist/*
